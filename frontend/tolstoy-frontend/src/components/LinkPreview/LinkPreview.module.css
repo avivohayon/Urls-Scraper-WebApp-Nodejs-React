@@ -1,0 +1,13 @@
+.previews {
+    margin-top: 20px;
+  }
+  
+  h1 {
+    font-size: calc(10px + 2vmin);
+    color: #61dafb;
+  }
+  
+.error {
+color: red;
+font-weight: bold;
+}
